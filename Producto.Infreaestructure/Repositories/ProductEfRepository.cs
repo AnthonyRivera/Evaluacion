@@ -58,7 +58,7 @@ namespace Producto.Infreaestructure.Repositories
             }
             else
             {
-                throw new ArgumentNullException("Contact Not Found");
+                throw new ArgumentNullException("Producto Not Found");
             }
             
         }

@@ -1,6 +1,5 @@
-
-
 /*
+Create Database Producto
 Use Producto
 CREATE TABLE productos(
 ID INT IDENTITY(1,1) PRIMARY KEY,
